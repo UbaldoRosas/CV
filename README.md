@@ -7,7 +7,7 @@ _Desarrollador Web y Shopify_<br>
 
 ## 👨🏽‍💻 Experiencia técnica
 
-**Desarrollador web** @ [Engrane Studio](https://engranestudio.com/) <br>_(Febrero 2015 - Marzo 2020)_ <br>
+**Desarrollador web** <br>[Engrane Studio](https://engranestudio.com/)_(Febrero 2015 - Marzo 2020)_ <br>
 Desarrollo de aplicaciones y sitios web nativos y a la medida.
   - Planificación de proyectos.
   - Wireframing / Prototipado interactivo
@@ -21,7 +21,7 @@ Desarrollo de aplicaciones y sitios web nativos y a la medida.
     - [Sitio web de Engrane Studio](https://engranestudio.com)
 <br><br>
 
-**Shopify Custom Theme Developer** @ [Getmore Shopify Experts](https://getmore.mx/) <br>_(Junio 2018 - Actualidad)_ <br>
+**Shopify Custom Theme Developer** <br>[Getmore Shopify Experts](https://getmore.mx/) _(Junio 2018 - Actualidad)_ <br>
 Personalización y desarrollo de tiendas en línea con Shopify.
   - Edición y desarrollo de temas.
   - Integración de nuevas funcionalidades
@@ -32,21 +32,19 @@ Personalización y desarrollo de tiendas en línea con Shopify.
   - **_Proyectos seleccionados:_**
     - [Fantasías Miguel](https://tienda.fantasiasmiguel.com)
     - [Arquiste](https://arquiste.com/)
-
-    <br><br>
     
 ## 🗞 Proyectos personales
 
-**Agencia Cardinal** _(2017 - Actualidad)_ <br>
+**Agencia Cardinal** <br>_(2017 - Actualidad)_ <br>
 Marketing digital / Desarrollo de páginas web / Tiendas en línea
 <br><br>
 
-**Curso de desarrollo web** _(Noviembre 2019 - Septiembre 2020)_ <br>
+**Curso de desarrollo web** <br>_(Noviembre 2019 - Septiembre 2020)_ <br>
 Impartición de curso online de desarrollo web desde cero a público en general y start-ups
 <br><br>
 
 ## 🎤 Charlas públicas
  
-- **Mentoría sobre Sass** Laboratoria México _(2019)_<br>
+- **Mentoría sobre Sass** <br>Laboratoria México _(2019)_<br>
 Sesiones sobre el uso de Sass de nivel básico a intermedio
 <br>
