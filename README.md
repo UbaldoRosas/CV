@@ -1,6 +1,6 @@
 # Ubaldo Rosas
 
-_Desarrollador Web y Shopify | originario de Ciudad de México, viviendo actualmente en Mérida, Yucatán_ <br>
+_Desarrollador Web y Shopify_<br>
 
 [Correo electrónico](mailto:contacto@ubaldorosas.com) / Sitio web: próximamente / [LinkedIn](https://www.linkedin.com/in/ubaldo-rosas/) / [GitHub](https://github.com/UbaldoRosas)
 
