@@ -7,7 +7,7 @@ _Desarrollador Web y Shopify_<br>
 
 ## 👨🏽‍💻 Experiencia técnica
 
-**Desarrollador web** <br>[Engrane Studio](https://engranestudio.com/)_(Febrero 2015 - Marzo 2020)_ <br>
+**Desarrollador web** <br>[Engrane Studio](https://engranestudio.com/) _(Febrero 2015 - Marzo 2020)_ <br>
 Desarrollo de aplicaciones y sitios web nativos y a la medida.
   - Planificación de proyectos.
   - Wireframing / Prototipado interactivo
@@ -37,7 +37,6 @@ Personalización y desarrollo de tiendas en línea con Shopify.
 
 **Agencia Cardinal** <br>_(2017 - Actualidad)_ <br>
 Marketing digital / Desarrollo de páginas web / Tiendas en línea
-<br><br>
 
 **Curso de desarrollo web** <br>_(Noviembre 2019 - Septiembre 2020)_ <br>
 Impartición de curso online de desarrollo web desde cero a público en general y start-ups
@@ -45,6 +44,6 @@ Impartición de curso online de desarrollo web desde cero a público en general 
 
 ## 🎤 Charlas públicas
  
-- **Mentoría sobre Sass** <br>Laboratoria México _(2019)_<br>
-Sesiones sobre el uso de Sass de nivel básico a intermedio
+- **Mentorías sobre Sass** <br>Laboratoria México _(2019)_<br>
+Sesiones sobre el uso del preprocesador CSS Sass desde nivel básico hasta intermedio
 <br>
