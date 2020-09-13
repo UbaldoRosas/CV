@@ -2,12 +2,12 @@
 
 _Desarrollador Web y Shopify_<br>
 
-[Correo electrónico](mailto:contacto@ubaldorosas.com) / Sitio web: próximamente / [LinkedIn](https://www.linkedin.com/in/ubaldo-rosas/) / [GitHub](https://github.com/UbaldoRosas)
+[Correo electrónico](mailto:contacto@ubaldorosas.com) / [LinkedIn](https://www.linkedin.com/in/ubaldo-rosas/) / [GitHub](https://github.com/UbaldoRosas)
 
 
 ## 👨🏽‍💻 Experiencia técnica
 
-**Desarrollador web** @ [Engrane Studio](https://engranestudio.com/) _(Febrero 2015 - Marzo 2020)_ <br>
+**Desarrollador web** @ [Engrane Studio](https://engranestudio.com/) <br>_(Febrero 2015 - Marzo 2020)_ <br>
 Desarrollo de aplicaciones y sitios web nativos y a la medida.
   - Planificación de proyectos.
   - Wireframing / Prototipado interactivo
@@ -21,7 +21,7 @@ Desarrollo de aplicaciones y sitios web nativos y a la medida.
     - [Sitio web de Engrane Studio](https://engranestudio.com)
 <br><br>
 
-**Shopify Custom Theme Developer** @ [Getmore Shopify Experts](https://getmore.mx/) _(Junio 2018 - Actualidad)_ <br>
+**Shopify Custom Theme Developer** @ [Getmore Shopify Experts](https://getmore.mx/) <br>_(Junio 2018 - Actualidad)_ <br>
 Personalización y desarrollo de tiendas en línea con Shopify.
   - Edición y desarrollo de temas.
   - Integración de nuevas funcionalidades
